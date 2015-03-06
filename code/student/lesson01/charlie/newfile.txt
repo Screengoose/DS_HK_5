@@ -1,0 +1,4 @@
+Impressions Sum: 2295559
+Average age: 28
+Click through rate: 0.0184917921953
+The oldest person in the file is: 108
